@@ -1,0 +1,8 @@
+name: teszt
+version: 1.0
+main: blackskin1337.niga.Main
+commands:
+    feka:
+        description: hzg35z34.
+        usage: /<command>
+        permission: feka.borszin

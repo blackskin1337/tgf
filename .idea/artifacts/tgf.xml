@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="tgf">
+    <output-path>$PROJECT_DIR$/out/artifacts/tgf</output-path>
+    <root id="archive" name="tgf.jar">
+      <element id="module-output" name="tgf" />
+      <element id="file-copy" path="D:/RÉGI MENTÉS/Users/Nigger/Documents/Development/Java/Server/FlamePaper.jar" />
+    </root>
+  </artifact>
+</component>
